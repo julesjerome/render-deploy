@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Python
+venv/
+myvenv/
+__pycache__/
+
+# Env files
+.env
+
+# OS
+.DS_Store
